@@ -1,10 +1,10 @@
-Hi 👋 My name is Digamber Rawat
+Hi 👋 My name is Jimmy Lei
 ===============================
 
 Unity Game Developer 
 ---------------
 
-* 🌍  I'm Jimmy Lei
+* 🌍  I'm Jimmy Lei, a Unity Developer.
 * ✉️  You can contact me at [badrabbit1222@outlook.com](mailto:badrabbit1222@outlook.com) 
 
 <a href="https://www.twitter.com/ImDigamberSingh" target="_blank" rel="noreferrer"><img
