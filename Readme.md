@@ -1,7 +1,7 @@
-Hi 👋 My name is Jimmy Lei
+Hi 👋 My name is Mourice Pulliam
 ===============================
 
-Unity Game Developer 
+Senior Unity Game Developer 
 ---------------
 
 * 🌍  I'm Jimmy Lei, a Unity Developer.
